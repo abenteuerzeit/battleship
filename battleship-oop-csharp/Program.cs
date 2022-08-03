@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace battleship_oop_csharp
@@ -14,6 +11,7 @@ namespace battleship_oop_csharp
         [STAThread]
         static void Main()
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

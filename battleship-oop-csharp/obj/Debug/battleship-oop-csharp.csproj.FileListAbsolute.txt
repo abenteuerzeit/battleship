@@ -1,0 +1,11 @@
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\bin\Debug\battleship-oop-csharp.exe.config
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\bin\Debug\battleship-oop-csharp.exe
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\bin\Debug\battleship-oop-csharp.pdb
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.csproj.AssemblyReference.cache
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship_oop_csharp.Properties.Resources.resources
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.csproj.GenerateResource.cache
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.csproj.CoreCompileInputs.cache
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.exe
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship-oop-csharp.pdb
+C:\Users\amroz\Source\Repos\battleship-oop-csharp-abenteuerzeit\battleship-oop-csharp\obj\Debug\battleship_oop_csharp.Form1.resources
