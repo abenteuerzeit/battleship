@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codecool\\Repozytoria\\battleship new\\Battleship\\Battleship.csproj",
+      "projectUniqueName": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
       "projectName": "Battleship",
-      "projectPath": "D:\\Codecool\\Repozytoria\\battleship new\\Battleship\\Battleship.csproj",
+      "projectPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "D:\\Codecool\\Repozytoria\\battleship new\\Battleship\\obj\\",
+      "outputPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
