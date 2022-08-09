@@ -21,3 +21,5 @@ C:\Users\kbieg\Workspace\battleship-oop-csharp-abenteuerzeit\obj\Debug\net6.0\Ba
 C:\Users\kbieg\Workspace\battleship-oop-csharp-abenteuerzeit\obj\Debug\net6.0\Battleship.dll
 C:\Users\kbieg\Workspace\battleship-oop-csharp-abenteuerzeit\obj\Debug\net6.0\refint\Battleship.dll
 C:\Users\kbieg\Workspace\battleship-oop-csharp-abenteuerzeit\obj\Debug\net6.0\Battleship.pdb
+D:\Codecool\Repozytoria\battleship-oop-csharp-abenteuerzeit\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Codecool\Repozytoria\battleship-oop-csharp-abenteuerzeit\obj\Debug\net6.0\Battleship.csproj.CopyComplete

@@ -40,19 +40,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kbieg\\.nuget\\packages\\": {}
+    "C:\\Users\\Alexander\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbieg\\Workspace\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
+      "projectUniqueName": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
       "projectName": "Battleship",
-      "projectPath": "C:\\Users\\kbieg\\Workspace\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
-      "packagesPath": "C:\\Users\\kbieg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbieg\\Workspace\\battleship-oop-csharp-abenteuerzeit\\obj\\",
+      "projectPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
+      "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+      "outputPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kbieg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

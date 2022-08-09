@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Battleship/1.0.0": {
+        "dependencies": {
+          "NuGet.Frameworks": "6.2.1"
+        },
         "runtime": {
           "Battleship.dll": {}
+        }
+      },
+      "NuGet.Frameworks/6.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "assemblyVersion": "6.2.1.2",
+            "fileVersion": "6.2.1.2"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "NuGet.Frameworks/6.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J5AlfS/XIhPIODuAgdh+/anL08M5aZG/wW5TXsNQW5MfRhgVHkCiN/9/MHAzA1BXccchlTjL/uVRL7DVH56LRw==",
+      "path": "nuget.frameworks/6.2.1",
+      "hashPath": "nuget.frameworks.6.2.1.nupkg.sha512"
     }
   }
 }
