@@ -15,18 +15,18 @@
             Carrier = 5,
             Battleship = 4,
             Cruiser = 3,
-            Submarine = 3,
-            Destroyer = 2
+            Submarine = 2,
+            Destroyer = 1
         }
 
-/*        private string name;
-        private int size;
+        /*        private string name;
+                private int size;
 
-        public void Type(string name, int size)
-        {
-            this.name = name;
-            this.size = size;
-        }*/
+                public void Type(string name, int size)
+                {
+                    this.name = name;
+                    this.size = size;
+                }*/
 
     }
 }

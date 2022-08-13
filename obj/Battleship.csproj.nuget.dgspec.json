@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj": {}
+    "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj": {}
   },
   "projects": {
-    "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj": {
+    "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
+        "projectUniqueName": "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
         "projectName": "Battleship",
-        "projectPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
-        "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\obj\\",
+        "projectPath": "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
+        "packagesPath": "C:\\Users\\amroz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

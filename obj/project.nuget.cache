@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O6fK1He6WiiV6BErRPzmfMsaU4qkK14sMgatbEHUdmVYwNmaRu3Ibwu7+RD/CWOJqyvoADBESxGuDjqhFuy/Ew==",
+  "dgSpecHash": "6VggAnSX8Eixrqh5EFua4KRsfY1HWLsXp73Y6VJy8vV+9npmrGBDfRzXDaPLUjjCX8ZEq+cZ3gOzbRXXDAx9QQ==",
   "success": true,
-  "projectFilePath": "D:\\Codecool\\Repozytoria\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
+  "projectFilePath": "C:\\Users\\amroz\\source\\repos\\battleship-oop-csharp-abenteuerzeit\\Battleship.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alexander\\.nuget\\packages\\nuget.frameworks\\6.2.1\\nuget.frameworks.6.2.1.nupkg.sha512"
+    "C:\\Users\\amroz\\.nuget\\packages\\nuget.frameworks\\6.2.1\\nuget.frameworks.6.2.1.nupkg.sha512"
   ],
   "logs": []
 }
